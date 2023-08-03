@@ -7,4 +7,4 @@ Application made in Unity using C# and Google's ARCore software development kit.
 ## How to use the application
 * Simply download this repository and unzip the downloaded folder
 * Get your Android device (only works on an Android...😪)
-* Download the APK file from the folder to your mobile device and run the application like you do any app
+* Download the APK file from the folder to your mobile device and run the application like you do any app 
